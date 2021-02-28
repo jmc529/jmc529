@@ -1,4 +1,4 @@
-## Hi there, I'm Joe Conwell <span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span align="right"> <img src="https://komarev.com/ghpvc/?username=jmc529" alt="Joe Conwell" /> </span>
+## Hi there, I'm Joe Conwell <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span align="right"> <img src="https://komarev.com/ghpvc/?username=jmc529" alt="Joe Conwell" /> </span>
 
 
 - 🔭 I’m currently working on <a href="https://github.com/jmc529/m3">M3</a>
@@ -19,7 +19,7 @@
 -->
 
 
-## Fun Statistics
+### Fun Statistics
 
 <table align="center">
 <tr>
@@ -39,5 +39,5 @@
 </tr>
 </table>
 
-## Check out my other pages
+### Check out my other pages
 <a href="https://gitlab.com/jmc529"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg?raw=true" width="30"></a><span>&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/joe-conwell/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="30"></a>
