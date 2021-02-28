@@ -1,4 +1,10 @@
-### Hi there, I'm Joe Conwell 👋 <span align="right"> <img src="https://komarev.com/ghpvc/?username=jmc529" alt="Joe Conwell" /> </span>
+### Hi there, I'm Joe Conwell <span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span align="right"> <img src="https://komarev.com/ghpvc/?username=jmc529" alt="Joe Conwell" /> </span>
+
+
+- 🔭 I’m currently working on <a href="https://github.com/jmc529/m3">M3</a>
+- 🌱 I’m currently learning Mathematics and Computer Science at @VirginiaTech
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can stand on a balance board for over a half hour
 
 <!--
 - 🔭 I’m currently working on ...
@@ -9,11 +15,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## Connect with me:
-<a href="https://www.linkedin.com/in/harmanjit-singh-36a447198/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+
 -->
 
-<table>
+
+## Fun Statistics
+
+<table align="center">
 <tr>
 <th> Github Stats </th>
 <th> Most Used Languages </th>
@@ -30,3 +38,6 @@
 </td>
 </tr>
 </table>
+
+## Check out my other pages
+<a href="https://gitlab.com/jmc529"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg?raw=true" width="50"></a><span>&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/joe-conwell/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="50"></a>
