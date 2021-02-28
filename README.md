@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmc529&show_icons=true&t&theme=calm&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmc529&show_icons=true&t&theme=calm&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=true&hide=stars">
 
 </td>
 <td>
