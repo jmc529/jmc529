@@ -21,7 +21,10 @@
 
 ### Fun Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact&theme=blueberry">
+</p>
+
 
 ### Check out my other pages
 <a href="https://gitlab.com/jmc529"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg?raw=true" width="30"></a><span>&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/joe-conwell/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="30"></a>
