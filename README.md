@@ -22,7 +22,7 @@
 ### Fun Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact&theme=blueberry">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
 </p>
 
 
