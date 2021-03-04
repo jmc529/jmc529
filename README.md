@@ -21,23 +21,7 @@
 
 ### Fun Statistics
 
-<table align="center">
-<tr>
-<th> Github Stats </th>
-<th> Most Used Languages </th>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmc529&show_icons=true&t&theme=calm&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=true&hide=stars">
-
-</td>
-<td>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact&theme=calm&hide_title=true">
-
-</td>
-</tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
 
 ### Check out my other pages
 <a href="https://gitlab.com/jmc529"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg?raw=true" width="30"></a><span>&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/joe-conwell/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="30"></a>
