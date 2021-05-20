@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/jmc529/m3">M3</a>
-- 🌱 I’m currently learning Mathematics and Computer Science at VirginiaTech
+- 🌱 I’m currently learning Computer Science at Virginia Tech
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can stand on a balance board for over a half hour
 
