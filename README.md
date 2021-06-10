@@ -27,7 +27,7 @@
   </a>
   &nbsp;
   <a href="https://wakatime.com/@jmc529" target="_blank">
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmc529&langs_count=6">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmc529">
   </a>
 </div>
 
