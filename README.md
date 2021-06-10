@@ -21,10 +21,15 @@
 
 ### Fun Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
-</p>
-
+<div align="center">
+  <a href="https://conwell.info" target="_blank">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
+  </a>
+  &nbsp;
+  <a href="https://wakatime.com/@jmc529" target="_blank">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmc529&langs_count=6">
+  </a>
+</div>
 
 ### Check out my other pages
 <a href="https://gitlab.com/jmc529"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg?raw=true" width="30"></a><span>&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/joe-conwell/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg?raw=true" width="30"></a>
