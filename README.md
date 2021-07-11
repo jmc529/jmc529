@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://conwell.info" target="_blank">
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmc529&layout=compact&langs_count=8&hide=hlsl,shaderlab,glsl">
   </a>
   &nbsp;
   <a href="https://wakatime.com/@jmc529" target="_blank">
